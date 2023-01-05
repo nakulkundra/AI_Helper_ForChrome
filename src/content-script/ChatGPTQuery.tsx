@@ -128,7 +128,7 @@ function ChatGPTQuery(props: Props) {
   if (error) {
     return (
       <p className="gpt-inner">
-        Failed to load response from ChatGPT:
+        Failed to load response! Please try after some time.:
         <br /> {error}
       </p>
     )
