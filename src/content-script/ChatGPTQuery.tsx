@@ -89,7 +89,7 @@ function ChatGPTQuery(props: Props) {
         </ReactMarkdown>
         {done && showTip && (
           <p className="italic mt-2">
-            Note: Please contact nakul.kundra@advantagego.com for any feedback !
+            Note: Please contact email@nakulkundra.com for any feedback !
           </p>
         )}
       </div>
